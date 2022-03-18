@@ -9,7 +9,7 @@
 
 ## 🤩 我
 
-哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是willcodeart.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 哈喽,我是willcodeart.
 
 - 一名全栈工程师,产品经理
 - 设计出身,关注跨学科知识创新,负责过产品,项目
