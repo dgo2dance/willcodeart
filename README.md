@@ -1,6 +1,6 @@
 ## 🥳 最近在干嘛
 
-* 🐱 学习全栈开发[Nest.js](https://nestjs.com/),[Midway.js](http://www.midwayjs.org/),[Next.js](https://www.nextjs.cn/),完成及运营一个组织结构信息网站-[光迹](http://www.orgloom.cc/)
+* 🐱 学习全栈开发[Nest.js](https://nestjs.com/),[Midway.js](http://www.midwayjs.org/),[Next.js](https://www.nextjs.cn/),练手一个组织结构信息网站-[光迹](http://www.orgloom.cc/)
 * 🍙 基于Midway,Cool等形成一轻量化的后台开发框架-[轻盈](https://github.com/willcodeart/lightness)
 * 🔥 了解web3,汽车工程学(电池,电机,电控)知识 
 * 🎸 最近在读的书,社会学之思,沟通的方法,读懂碳中和
